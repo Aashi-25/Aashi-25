@@ -81,14 +81,16 @@
 <br><br>
 
 ## 🏆 Achievements
-<div align="center" style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+<!-- <div align="center" style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
   <div style="background: rgba(102,126,234,0.12); border-radius: 18px; box-shadow: 0 4px 24px rgba(118,75,162,0.10); padding: 32px 18px; display: inline-block;">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Aashi-25&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequests,Reviews" style="max-width: 100%;" /> -->
-
-    <img src="https://github-profile-trophy.vercel.app?username=Aashi-25&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-    
+    <img src="https://github-profile-trophy.vercel.app/?username=Aashi-25&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequests,Reviews" style="max-width: 100%;" />
   </div>
+</div> -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aashi-25&theme=dracula&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </div>
+
 
 ---
 
