@@ -30,9 +30,9 @@
         📄 Know about my experiences <a href="resume link" style="color: #FF6B9D; text-decoration: none;">resume link</a><br><br>
       </p>
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=⚡+Fun+fact:+I+write+more+TODOs+than+actual+code" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=⚡+Fun+fact:+I+write+more+TODOs+than+actual+code" alt="Typing SVG" />
         <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=...but+it's+all+part+of+the+plan!+😄" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=2000&color=FF6B9D&center=true&vCenter=true&width=700&lines=...but+it's+all+part+of+the+plan!+😄" alt="Typing SVG" />
       </p>
     </div>
   </div>
