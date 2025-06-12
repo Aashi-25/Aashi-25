@@ -56,6 +56,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashi-25&theme=radical&hide_border=true&bg_color=0D1117&color=A855F7&line=6C5CE7&point=ffffff&area=true&area_color=A855F7" width="100%"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashi-25/Aashi-25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashi-25/Aashi-25/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aashi-25/Aashi-25/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://instagram.com/aah.shii_25">
